@@ -1,0 +1,5 @@
+#!/bin/bash
+# -*- ENCODING: UTF-8 -*-
+cd $HOME && echo '#!/bin/bash' > script.sh && echo '# -*- ENCODING: UTF-8 -*-' >> script.sh
+
+
